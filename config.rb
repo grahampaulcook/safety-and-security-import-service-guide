@@ -69,3 +69,4 @@ set :markdown,
     fenced_code_blocks: true,
     tables: true,
     no_intra_emphasis: true
+
